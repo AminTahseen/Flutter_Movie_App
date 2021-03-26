@@ -1,6 +1,7 @@
-# movies_app
+# Flutter Movie App
 
-A new Flutter project.
+A simple flutter movie app, that handles the basic navigation and display movie details. 
+P.s, the data is a dummy data and can be editable.
 
 ## Getting Started
 
